@@ -1,3 +1,5 @@
+[![Release](https://jitpack.io/v/StephaneBg/SimpleNumberPicker.svg)](https://jitpack.io/#StephaneBg/SimpleNumberPicker)
+
 # SimpleNumberPicker
 
 A customisable decimal and hexadecimal material picker view for Android.
